@@ -1,0 +1,13 @@
+{
+  "name": "music-player-server",
+  "version": "0.0.1",
+  "description": "music player 的后端服务",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./bin/www.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
